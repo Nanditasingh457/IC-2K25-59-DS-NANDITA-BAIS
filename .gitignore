@@ -1,0 +1,41 @@
+# Binaries and executables
+*.exe
+*.out
+*.app
+*.bin
+
+# Object files and libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.pdb
+*.ilk
+*.dSYM/
+
+# VS Code and Editor files
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+.idea/
+*.swp
+*~
+
+# Temporary and log files
+*.log
+*.tmp
+*.bak
+
+# Python cache (if any benchmark scripts generate it)
+__pycache__/
+*.pyc
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
